@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "price": 25.99,
+    "size": "m"
+  },
+  {
+    "id": 2,
+    "name": "Jeans",
+    "price": 59.99,
+    "size": "l"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers",
+    "price": 89.99,
+    "size": "m"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "price": 49.99,
+    "size": "m"
+  }
+]
