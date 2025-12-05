@@ -1,0 +1,20 @@
+{
+  "name": "inventory-api",
+  "version": "1.0.0",
+  "description": "RESTful API for managing inventory items",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "inventory",
+    "api",
+    "rest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
